@@ -1,5 +1,5 @@
 # your domain
-domain: free153.heroku.com
+domain: free153.herokuapp.com
 port: 80                # default 12580
 
 # source list file
